@@ -1,4 +1,4 @@
-## Just killing time by learning react
+# Just killing time by learning react
 
 
 # React + TypeScript + Vite
